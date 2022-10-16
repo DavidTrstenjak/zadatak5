@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\zadatak5\zadatak5\bin\Debug\zadatak5.exe.config
+C:\Users\PC\source\repos\zadatak5\zadatak5\bin\Debug\zadatak5.exe
+C:\Users\PC\source\repos\zadatak5\zadatak5\bin\Debug\zadatak5.pdb
+C:\Users\PC\source\repos\zadatak5\zadatak5\obj\Debug\zadatak5.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\zadatak5\zadatak5\obj\Debug\zadatak5.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\zadatak5\zadatak5\obj\Debug\zadatak5.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\zadatak5\zadatak5\obj\Debug\zadatak5.exe
+C:\Users\PC\source\repos\zadatak5\zadatak5\obj\Debug\zadatak5.pdb
